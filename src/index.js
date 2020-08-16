@@ -3,7 +3,12 @@ const messages = [
     'Hi',
     'how are you?',
     'Nice to see you',
-    'Good day'
+    'Good day',
+    'Hola',
+    'Como estas?',
+    'Que tal?',
+    'Salut',
+    'comment ça va?'
 ];
 
 const sayHello = () => {
@@ -11,4 +16,4 @@ const sayHello = () => {
     console.log(message);
 };
 
-module.exports = { sayHello() };
+module.exports = { sayHello };

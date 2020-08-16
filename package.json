@@ -9,7 +9,7 @@
   "author": "Dulce Mercado <soydulceangelina@gmail.com>",
   "license": "MIT",
   "bin": {
-    "say-hello": "./bin/global"
+    "say-hello": "./bin/global.js"
   },
   "preferGlobal": true
 }
