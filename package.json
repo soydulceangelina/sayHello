@@ -1,5 +1,5 @@
 {
-  "name": "sayhello",
+  "name": "soydulceangelinasayhello",
   "version": "1.0.0",
   "description": "random de saludos",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   "author": "Dulce Mercado <soydulceangelina@gmail.com>",
   "license": "MIT",
   "bin": {
-    "say-hello": "./bin/global.js"
+    "soydulceangelinasay-hello": "./bin/global.js"
   },
   "preferGlobal": true
 }
